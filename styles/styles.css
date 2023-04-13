@@ -1,0 +1,30 @@
+
+
+
+body {
+    background: linear-gradient(#000000,#440d0d);
+    color: #ddd ;
+
+}
+
+
+.project-title {
+    background: transparent;
+    padding: 15%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.carousel {
+    margin: 50px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 700px; /* ajusta la altura a tu preferencia */
+    object-fit: cover; /* asegura que las imágenes se ajusten al tamaño sin deformarse */
+  }
+  
+.contact-title {
+    padding: 15%
+}
