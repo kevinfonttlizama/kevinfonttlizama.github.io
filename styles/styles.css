@@ -1,8 +1,12 @@
 
+header {
 
+    background: #000000;
+
+}
 
 body {
-    background: linear-gradient(#000000,#440d0d);
+    background: linear-gradient(#000000ba,#000000);
     color: #ddd ;
 
 }
