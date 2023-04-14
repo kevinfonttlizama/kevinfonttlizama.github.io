@@ -6,28 +6,33 @@ header {
 }
 
 body {
-    background: linear-gradient(#000000ba,#000000);
+    background: linear-gradient(#330000,#000000);
     color: #ddd ;
 
 }
 
+li {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-right: 1px solid gray;
+    margin-left: 20px;
+}
 
 .project-title {
-    background: transparent;
     padding: 15%;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 20px;
+
+    ;
 }
 
 .carousel {
     margin: 50px;
+    box-shadow: 2px 2px 5px rgb(238, 255, 241)
 }
 
-.carousel-inner img {
-    width: 100%;
-    height: 700px; /* ajusta la altura a tu preferencia */
-    object-fit: cover; /* asegura que las imágenes se ajusten al tamaño sin deformarse */
-  }
+
   
 .contact-title {
     padding: 15%;
