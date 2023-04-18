@@ -6,7 +6,7 @@ header {
 }
 
 body {
-    background: linear-gradient(#330000,#000000);
+    background: linear-gradient(#2c2c2c,#000000);
     color: #ddd ;
 
 }
@@ -14,7 +14,6 @@ body {
 li {
     padding-left: 50px;
     padding-right: 50px;
-    border-right: 1px solid gray;
     margin-left: 20px;
 }
 
