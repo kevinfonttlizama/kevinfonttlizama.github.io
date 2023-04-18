@@ -8,6 +8,14 @@ header {
 body {
     background: linear-gradient(#2c2c2c,#000000);
     color: #ddd ;
+    margin: 0;
+
+}
+
+div.container {
+    margin-right: 0%;
+    padding: 0%;
+    margin-left: 0%;
 
 }
 
@@ -15,6 +23,10 @@ li {
     padding-left: 50px;
     padding-right: 50px;
     margin-left: 20px;
+}
+
+h1 {
+    letter-spacing: 2px;
 }
 
 .project-title {
