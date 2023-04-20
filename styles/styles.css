@@ -25,6 +25,10 @@ li {
     margin-left: 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     letter-spacing: 2px;
 }
