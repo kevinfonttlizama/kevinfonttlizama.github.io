@@ -33,6 +33,11 @@ h1 {
     letter-spacing: 2px;
 }
 
+h2 {
+    letter-spacing: 2px;
+    margin-left: 133px;
+}
+
 .project-title {
     padding: 15%;
     margin-left: 20px;
@@ -41,12 +46,6 @@ h1 {
 
     
 }
-
-.carousel {
-    margin: 50px;
-    box-shadow: 2px 2px 5px rgb(238, 255, 241)
-}
-
 
   
 .contact-title {
